@@ -26,15 +26,17 @@ pip install pandas matplotlib
 
 [Projeto 2](./projetos/modulo_02/relatorio_vendas.ipynb)
 
-#### Pré requisito
-
 ```bash
 pip install pdfplumber
 ```
 
 ### 🏋️ Projeto 3: Analisando dados para Business Intelligence
 
-[Projeto 3](./projetos/modulo_03/relatorio_vendas.ipynb)
+[Projeto 3](./projetos/modulo_03/relatorio_bi.ipynb)
+
+```bash
+pip install sweetviz
+```
 
 ## 💻 Tecnologias e Ferramentas
 
