@@ -38,6 +38,14 @@ pip install pdfplumber
 pip install sweetviz
 ```
 
+### 🏋️ Projeto 4:  Analisando seus dados do Gmail
+
+[Projeto 4](./projetos/modulo_04/relatorio_gmail.ipynb)
+
+```bash
+pip install 
+```
+
 ## 💻 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
